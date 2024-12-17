@@ -2,3 +2,4 @@ streamlit==1.18.0
 speechrecognition==3.8.1
 googletrans==4.0.0-rc1
 deep-translator==1.8.3
+altair==4.2.2  # Add this line to specify the compatible version
